@@ -48,6 +48,7 @@ namespace LegendCoffe
 
         public MainWindow()
         {
+            Console.WriteLine("Starting legend coffe app!!!!");
             InitializeComponent();
             this.DataContext = new MainWindowsViewModel(this);
         }

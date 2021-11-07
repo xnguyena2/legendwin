@@ -17,12 +17,12 @@ namespace LegendCoffe
         public OrderItem(String detail, Action<OrderItem> remove)
         {
             List<string> output = new List<string>();
-            Dictionary<string, int> orderDetail = JsonConvert.DeserializeObject<Dictionary<string, int>>(detail);
-            foreach (var kv in orderDetail)
+            Order orderDetail = JsonConvert.DeserializeObject<Order>(detail);
+            foreach (var kv in orderDetail.listProduct)
             {
                 output.Add(string.Format("{0}: ({1})", kv.Key, kv.Value));
             }
-            ProductName = string.Join(", ", output);
+            ProductName = string.Format("{0}: {1}", orderDetail.tableName, string.Join(", ", output));
             RemoveCMD = new RelayCommand(() =>
             {
                 remove(this);

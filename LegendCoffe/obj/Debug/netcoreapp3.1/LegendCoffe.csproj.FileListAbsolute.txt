@@ -4,7 +4,6 @@ C:\Users\phong\Documents\Visual Studio 2019\LegendCoffe\LegendCoffe\bin\Debug\ne
 C:\Users\phong\Documents\Visual Studio 2019\LegendCoffe\LegendCoffe\bin\Debug\netcoreapp3.1\LegendCoffe.runtimeconfig.dev.json
 C:\Users\phong\Documents\Visual Studio 2019\LegendCoffe\LegendCoffe\bin\Debug\netcoreapp3.1\LegendCoffe.dll
 C:\Users\phong\Documents\Visual Studio 2019\LegendCoffe\LegendCoffe\bin\Debug\netcoreapp3.1\LegendCoffe.pdb
-C:\Users\phong\Documents\Visual Studio 2019\LegendCoffe\LegendCoffe\obj\Debug\netcoreapp3.1\LegendCoffe.csproj.AssemblyReference.cache
 C:\Users\phong\Documents\Visual Studio 2019\LegendCoffe\LegendCoffe\obj\Debug\netcoreapp3.1\MainWindow.g.cs
 C:\Users\phong\Documents\Visual Studio 2019\LegendCoffe\LegendCoffe\obj\Debug\netcoreapp3.1\App.g.cs
 C:\Users\phong\Documents\Visual Studio 2019\LegendCoffe\LegendCoffe\obj\Debug\netcoreapp3.1\LegendCoffe_MarkupCompile.cache
@@ -22,3 +21,6 @@ C:\Users\phong\Documents\Visual Studio 2019\LegendCoffe\LegendCoffe\obj\Debug\ne
 C:\Users\phong\Documents\Visual Studio 2019\LegendCoffe\LegendCoffe\obj\Debug\netcoreapp3.1\Template\Template.baml
 C:\Users\phong\Documents\Visual Studio 2019\LegendCoffe\LegendCoffe\obj\Debug\netcoreapp3.1\App.baml
 C:\Users\phong\Documents\Visual Studio 2019\LegendCoffe\LegendCoffe\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\phong\Documents\Visual Studio 2019\LegendCoffe\LegendCoffe\obj\Debug\netcoreapp3.1\LegendCoffe_Content.g.cs
+C:\Users\phong\Documents\Visual Studio 2019\LegendCoffe\LegendCoffe\bin\Debug\netcoreapp3.1\Resources\popding.wav
+C:\Users\phong\Documents\Visual Studio 2019\LegendCoffe\LegendCoffe\obj\Debug\netcoreapp3.1\LegendCoffe.csproj.CopyComplete

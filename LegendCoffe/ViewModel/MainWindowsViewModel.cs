@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
+using System.Media;
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
@@ -51,6 +52,7 @@ namespace LegendCoffe
 
         public MainWindowsViewModel(Window window) : base(window)
         {
+            SoundPlayer simpleSound = new SoundPlayer(@"Resources\popding.wav");
             AppConfig config = AppConfig.LoadConfig();
             tableNo = config.tableNo.ToString();
             ObservableCollection<Product> ps = new ObservableCollection<Product>();
@@ -96,6 +98,7 @@ namespace LegendCoffe
                     case "PING":
                         return JsonConvert.SerializeObject(AppConfig.CurrentConfig);
                     default:
+                        simpleSound.Play();
                         Application.Current.Dispatcher.Invoke(() =>
                         {
                             ListOrder.Add(new OrderItem(msg, p =>

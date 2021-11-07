@@ -18,7 +18,7 @@ C:\Users\phong\Documents\Visual Studio 2019\LegendCoffe\LegendCoffe\obj\Release\
 C:\Users\phong\Documents\Visual Studio 2019\LegendCoffe\LegendCoffe\obj\Release\netcoreapp3.1\LegendCoffe.AssemblyInfo.cs
 C:\Users\phong\Documents\Visual Studio 2019\LegendCoffe\LegendCoffe\obj\Release\netcoreapp3.1\LegendCoffe.csproj.CoreCompileInputs.cache
 C:\Users\phong\Documents\Visual Studio 2019\LegendCoffe\LegendCoffe\obj\Release\netcoreapp3.1\LegendCoffe.csproj.Fody.CopyLocal.cache
-C:\Users\phong\Documents\Visual Studio 2019\LegendCoffe\LegendCoffe\obj\Release\netcoreapp3.1\LegendCoffe.csproj.CopyComplete
 C:\Users\phong\Documents\Visual Studio 2019\LegendCoffe\LegendCoffe\obj\Release\netcoreapp3.1\LegendCoffe.dll
 C:\Users\phong\Documents\Visual Studio 2019\LegendCoffe\LegendCoffe\obj\Release\netcoreapp3.1\LegendCoffe.pdb
 C:\Users\phong\Documents\Visual Studio 2019\LegendCoffe\LegendCoffe\obj\Release\netcoreapp3.1\LegendCoffe.genruntimeconfig.cache
+C:\Users\phong\Documents\Visual Studio 2019\LegendCoffe\LegendCoffe\obj\Release\netcoreapp3.1\LegendCoffe.csproj.AssemblyReference.cache
